@@ -93,7 +93,6 @@
   <project path="external/stlport" name="platform/external/stlport"/>
   <project path="external/strace" name="platform/external/strace"/>
   <project path="external/tagsoup" name="platform/external/tagsoup"/>
-  <project path="external/tinyalsa" name="platform/external/tinyalsa"/>
   <project path="external/tinyxml" name="platform/external/tinyxml"/>
   <project path="external/tinyxml2" name="platform/external/tinyxml2"/>
   <project path="external/tremolo" name="platform/external/tremolo"/>
@@ -140,5 +139,6 @@
   <project remote="local_repo" revision="master" path="hardware/broadcom/wlan" name="android/hardware/broadcom/wlan"/>
   <project remote="local_repo" revision="master" path="external/ppp" name="android/external/ppp"/>
   <project remote="local_repo" revision="master" path="frameworks/av/media/CedarX-Projects" name="android/frameworks/av/media/CedarX-Projects"/>
+  <project remote="local_repo" revision="master" path="external/tinyalsa" name="android/external/tinyalsa"/>
 
 </manifest>
