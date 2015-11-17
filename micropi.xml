@@ -139,5 +139,6 @@
   <project remote="local_repo" revision="master" path="device/softwinner/common" name="android/device/softwinner/common"/>
   <project remote="local_repo" revision="master" path="hardware/broadcom/wlan" name="android/hardware/broadcom/wlan"/>
   <project remote="local_repo" revision="master" path="external/ppp" name="android/external/ppp"/>
+  <project remote="local_repo" revision="master" path="frameworks/av/media/CedarX-Projects" name="android/frameworks/av/media/CedarX-Projects"/>
 
 </manifest>
