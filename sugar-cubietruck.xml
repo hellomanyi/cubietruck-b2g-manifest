@@ -128,7 +128,6 @@
   <project remote="sugar_repo" revision="master" path="hardware" name="android/hardware"/>
   <project remote="sugar_repo" revision="master" path="device/softwinner" name="android/device/softwinner"/>
   <project remote="sugar_repo" revision="master" path="frameworks" name="android/frameworks"/>
-  <project remote="sugar_repo" revision="master" path="hardware/broadcom/wlan" name="android/hardware/broadcom/wlan"/>
   <project remote="sugar_repo" revision="master" path="external/ppp" name="android/external/ppp"/>
   <project remote="sugar_repo" revision="master" path="external/tinyalsa" name="android/external/tinyalsa"/>
 
